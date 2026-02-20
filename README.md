@@ -8,7 +8,7 @@
 
 ## Ветки проекта:
 
-- **async_algorithm_** - Лабораторная 8: Асинхронный сервис оценки объема архива
+- **async_algorithm_** - Лабораторная 8: Алгоритм сжатия
 
 ## Основные репозитории:
 - [Бэкенд](https://github.com/Fen1x678/estimating_data_volume_for_archiving_RIP_backend_2025)
